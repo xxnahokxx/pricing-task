@@ -1,3 +1,3 @@
-# Album-Example
+# Pricing-example
 
-[URL](https://xxnahokxx.github.io/album-css-html/)
+[URL](https://xxnahokxx.github.io/pricing-task/)
